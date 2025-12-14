@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\cours\\BUT\\depot\\calcul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\pages\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\model\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|d:\\cours\\but\\depot\\calcul\\calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Dockerfile",
               "RelativeDocumentMoniker": "CalculPourcentage\\Dockerfile",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "CalculPourcentage\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-14T14:53:42.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T14:53:42.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\appsettings.json",
               "RelativeDocumentMoniker": "CalculPourcentage\\appsettings.json",
@@ -75,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Routes.razor",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Routes.razor",
@@ -99,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Weather.razor",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Weather.razor",
@@ -111,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Calcul.cs",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Model\\Calcul.cs",
               "RelativeDocumentMoniker": "CalculPourcentage\\Model\\Calcul.cs",
@@ -123,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Layout\\MainLayout.razor",
@@ -135,15 +134,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Counter.razor",
               "DocumentMoniker": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Counter.razor",
               "ToolTip": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "CalculPourcentage\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T19:16:05.247Z"
+              "WhenOpened": "2025-12-04T19:16:05.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -153,9 +153,10 @@
               "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
               "ToolTip": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
               "RelativeToolTip": "CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwBkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T19:26:01.099Z"
+              "WhenOpened": "2025-12-04T19:26:01.099Z",
+              "EditorCaption": ""
             }
           ]
         }

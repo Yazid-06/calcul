@@ -35,3 +35,12 @@
 <button @onclick="Calculer">Calculer  le coût total</button>
 <button @onclick="Reinitialiser">Réinitialiser le formulaire</button>
 <p>Le prix total est : @Resultat</p>
+<br />
+<EditForm Model="@this">
+    <p>
+        <h6> Marge : </h6>
+        <InputNumber @bind-Value="Marge" step="0.05" @onclick="CalculerMarge" @oninput="CalculerMarge" />
+    </p>
+</EditForm>
+<button @onclick="CalculerMarge">Calculer le prix finale</button>
+<p>Le prix total est : @PrixFinal</p>
