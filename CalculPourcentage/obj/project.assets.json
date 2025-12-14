@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\CalculPourcentage.csproj",
+      "projectUniqueName": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\CalculPourcentage.csproj",
       "projectName": "CalculPourcentage",
-      "projectPath": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\CalculPourcentage.csproj",
+      "projectPath": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\CalculPourcentage.csproj",
       "packagesPath": "C:\\Users\\33637\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\obj\\",
+      "outputPath": "D:\\cours\\BUT\\depot\\calcul\\CalculPourcentage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
