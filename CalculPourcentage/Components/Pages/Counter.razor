@@ -1,0 +1,37 @@
+﻿@page "/calcul"
+@rendermode InteractiveServer
+@using Model
+<PageTitle>Calcul</PageTitle>
+<h1>Calcul </h1>
+<EditForm Model="@this">
+    <p>
+        <h6> Prix d'achat : </h6>
+        <InputNumber @bind-Value="PrixAchat" step="0.1" @onclick="Calculer" @oninput="Calculer" />
+    </p>
+    <p>
+        <h6> Taux de la commission : </h6>
+        <InputNumber @bind-Value="Commission" step="0.05" @onclick="Calculer" @oninput="Calculer" />
+    </p>
+    <p>
+        <h6> Frais de Gestion : </h6>
+        <InputNumber @bind-Value="FraisGestion" step="0.05" @onclick="Calculer" @oninput="Calculer" />
+    </p>
+    <p>
+        <h6> Prix du transport : </h6>
+        <div id="Transport">
+            <h6> Prix du roll :
+                <InputNumber @bind-Value="PrixChariot" step="0.5" @onclick="Calculer" @oninput="CalculerTransport" />
+            </h6>
+            <h6> Nombre de plante par roll : 
+                <InputNumber @bind-Value="NbElt" @onclick="Calculer" @oninput="CalculerTransport" />
+            </h6>
+            <button @onclick="CalculerTransport">Calculer le coût de transport  </button>
+            <p>Le coût de transport par plante est: @ResultatTransport</p>
+        </div>
+    </p>
+
+    
+</EditForm>
+<button @onclick="Calculer">Calculer  le coût total</button>
+<button @onclick="Reinitialiser">Réinitialiser le formulaire</button>
+<p>Le prix total est : @Resultat</p>

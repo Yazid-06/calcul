@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\pages\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\model\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\model\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|c:\\users\\33637\\source\\repos\\calculpourcentage\\calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879F33C4-4661-4813-BCC3-75394DF78823}|CalculPourcentage\\CalculPourcentage.csproj|solutionrelative:calculpourcentage\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Dockerfile",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Dockerfile",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Dockerfile",
+              "RelativeToolTip": "CalculPourcentage\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T14:53:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculPourcentage\\appsettings.json",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\appsettings.json",
+              "RelativeToolTip": "CalculPourcentage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T12:33:26.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Routes.razor",
+              "RelativeToolTip": "CalculPourcentage\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T12:33:21.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\App.razor",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\App.razor",
+              "RelativeToolTip": "CalculPourcentage\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T12:33:16.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "CalculPourcentage\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T12:02:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calcul.cs",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Model\\Calcul.cs",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Model\\Calcul.cs",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Model\\Calcul.cs",
+              "RelativeToolTip": "CalculPourcentage\\Model\\Calcul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:51:58.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CalculPourcentage\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T19:32:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "CalculPourcentage\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T19:16:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor.cs",
+              "DocumentMoniker": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
+              "RelativeDocumentMoniker": "CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
+              "ToolTip": "C:\\Users\\33637\\source\\repos\\CalculPourcentage\\CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
+              "RelativeToolTip": "CalculPourcentage\\Components\\Pages\\Counter.razor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:26:01.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
