@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculPourcentage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243c2aff35dee2135ea9aa6be0e1bb0884c8c158")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d66c3e6406923df3b878ffef955922aabedc36")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculPourcentage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculPourcentage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
